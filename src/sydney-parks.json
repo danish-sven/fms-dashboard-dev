@@ -1,0 +1,60 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Botanic Gardens",
+        "description": "A botanical garden located in the heart of Sydney"
+      },
+      "geometry": {
+        "coordinates": [151.2168, -33.8583],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hyde Park",
+        "description": "Australia's oldest public parkland"
+      },
+      "geometry": {
+        "coordinates": [151.211018, -33.873352],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Centennial Park",
+        "description": "A large urban park located southeast of the Sydney CBD"
+      },
+      "geometry": {
+        "coordinates": [151.23364000, -33.89794000],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bicentennial Park",
+        "description": "A large park in Sydney Olympic Park"
+      },
+      "geometry": {
+        "coordinates": [151.077582, -33.849009],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barangaroo Reserve",
+        "description": "A waterfront park providing views of Sydney's Harbour Bridge"
+      },
+      "geometry": {
+        "coordinates": [151.2030, -33.8611],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
